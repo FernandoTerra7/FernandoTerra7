@@ -6,7 +6,7 @@
 
 
 ### Languages & Tools 🛠  
-![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&color=green)&nbsp;![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&color=green)&nbsp;![CSharp](https://img.shields.io/badge/-CSharp-05123A?style=flat&color=green)&nbsp;![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&color=green)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&color=orange)&nbsp;![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&color=orange)&nbsp;![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&color=orange)&nbsp;  
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&color=gray)&nbsp;![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-05122A?style=flat&color=gray)&nbsp;![SublimeText](https://img.shields.io/badge/-SublimeText-05122A?style=flat&color=gray)&nbsp;  
 ![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&color=yellow)&nbsp;![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&color=yellow)&nbsp;  
