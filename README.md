@@ -7,9 +7,9 @@
 
 ### Languages & Tools 🛠  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&color=orange)&nbsp;![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&color=orange)&nbsp;![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&color=orange)&nbsp;  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&color=gray)&nbsp;![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-05122A?style=flat&color=gray)&nbsp;![SublimeText](https://img.shields.io/badge/-SublimeText-05122A?style=flat&color=gray)&nbsp;  
-![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&color=yellow)&nbsp;![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&color=yellow)&nbsp;  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white);  
 
 
 ### Analytics ⚙️
