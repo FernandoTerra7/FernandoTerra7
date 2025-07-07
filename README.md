@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1587134085/8661/fast_meow_party.gif?1587134085" width="30"/> Hello, World ! </h1>
 ========================================================================================
 
-My name is Fernando Terra. I'm a Developer systems.   🐻
+📌My name is Fernando Terra. I'm a Developer systems.  🟢⚪🔴
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=thaispll&repo=thaispll&countColorcountColor)
 
