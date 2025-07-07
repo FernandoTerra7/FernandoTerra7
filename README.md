@@ -3,7 +3,7 @@
 
 📌My name is Fernando Terra. I'm a systems development student.  🟢⚪🔴
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=thaispll&repo=thaispll&countColorcountColor)
+
 
 ### Languages & Tools 🛠  
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&color=green)&nbsp;![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&color=green)&nbsp;![CSharp](https://img.shields.io/badge/-CSharp-05123A?style=flat&color=green)&nbsp;![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&color=green)&nbsp;
