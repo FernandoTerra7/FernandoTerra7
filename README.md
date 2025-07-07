@@ -13,8 +13,8 @@
 ### Analytics ⚙️
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoTerra7&layout=compact&count_private=true)
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=thaispll&hide_border=true)
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=thaispll&count_private=true&show_icons=true)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=FernandoTerra&hide_border=true)
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=FernandoTerra&count_private=true&show_icons=true)
 
 
 ### Let's connect? 🤝 
